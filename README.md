@@ -1,5 +1,5 @@
 # CwyptoBot
-A Basic Discord Bot designed for performing the following tasks:
+### A Basic Discord Bot designed for performing the following tasks:
 - Muting/Unmuting
 - Banning/Unbanning
 - Kicking
